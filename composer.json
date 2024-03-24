@@ -6,8 +6,11 @@
     "license": "MIT",
     "require": {
         "php": "^8.2",
+        "blade-ui-kit/blade-heroicons": "^2.3",
         "laravel/breeze": "^2.0",
         "laravel/framework": "^11.0",
+        "laravel/prompts": "^0.1.16",
+        "laravel/reverb": "@beta",
         "laravel/tinker": "^2.9",
         "livewire/livewire": "^3.4",
         "livewire/volt": "^1.0"
